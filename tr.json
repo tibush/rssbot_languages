@@ -1,6 +1,6 @@
 {
     "translated_by": "@By_Azade",
-    "list": "*RSS Bot a Hoş Geldin!*\n_RSS Bot Kanallarınızı, Gruplarınızı ve Süpergruplarınızı otomatikleştirmeye ve yönetmeye yardımcı olur._\n\nKanallarıni Grupların ve Süpergrupların:",
+    "list": "*RSS Bot a Hoş Geldin!*\n_RSS Bot Kanallarınızı, Gruplarınızı ve Süpergruplarınızı otomatikleştirmeye ve yönetmeye yardımcı olur._\n\nKanalların Grupların ve Süpergrupların:",
     "add_btn": "EKLE",
     "back_btn": "Geri",
     "refresh_btn": "Listeyi Yenile",
@@ -16,7 +16,7 @@
     "msg_format_success": "*Mesaj formatı güncellendi!*",
     "feed_url_success": "*Kaynak URL güncellendi!*",
     "send_success": "*Mesaj gönderildi!*",
-    "about": "*RSS Bot, tüm Kanallarınızı, Gruplarınızı ve Süpergruplarınızı otomatikleştirmek ve yönetmek için ücretsiz bir Telegram Botudur.*\nRSS Bot yapımcısı [PartyGuy](tg:\/\/user?id=137370573).\n\nLütfen hataları [bburaya](https:\/\/t.me\/ChannelBroS) bildirin. _Teşekkürler!_\n\n*Versiyon:*",
+    "about": "*RSS Bot, tüm Kanallarınızı, Gruplarınızı ve Süpergruplarınızı otomatikleştirmek ve yönetmek için ücretsiz bir Telegram Botudur.*\nRSS Bot yapımcısı [PartyGuy](tg:\/\/user?id=137370573).\n\nLütfen hataları [buraya](https:\/\/t.me\/ChannelBroS) bildirin. _Teşekkürler!_\n\n*Versiyon:*",
     "changelog": "Değişikliklere bak",
     "faq_btn": "Dökümantasyonu oku",
     "news_btn": "Kanal",
@@ -28,11 +28,11 @@
     "cache_btn": "Belleği Temizle",
     "cache": "*Belleği temizlemek mi istiyorsun?*\n\nBu, RSS Gönderiminin daha hızlı çalıştığı anlamına gelir, ancak belki bazı eski RSS Gönderileri tekrar Kanalınıza , Grubunuza ve Süpergrubunuza gönderebilir ve eski Gönderilerin RSS Bot Yorum Sayfaları yok.\n\n_Belleği temizlemek istiyor musun?_",
     "cache_success": "*Bellek Temizlendi!*",
-    "enable": "Atktif",
+    "enable": "Aktif",
     "enabled": "Aktif",
     "disable": "Pasif",
     "disabled": "Pasif",
-    "message_format": "Messaj Formatı",
+    "message_format": "Mesaj Formatı",
     "images": "Resimler",
     "whats_next": "Ne yapmak istiyorsun?",
     "send_images": "Resim Gönder",
@@ -59,5 +59,5 @@
     "name": "İsim",
     "stats": "İstatistik",
     "stats_text": "*Yukarıdakiler Sohbetinizin Üye İstatistikleridir.*\n_Gönderilen Mesajlar hakkında İstatistikler almak için Kanalınızda veya Grubunuzda her zaman # istatistik yazabilirsiniz._",
-    "zapier": "Zapier Entegrasyonumuzla, Kanalınıza, Grubunuza veya Süper Grubunuza kolayca Otomatik Yüklemeyi kurabilirsiniz\nZapier, Twitter, Facebook, Gmail, GitHub, ... dahil Tetikleyici olarak 750'den fazla Uygulamayı destekler.!\n\n*Zapier nedir? *\n_Zapier Otomasyondur_\nİşlerinizi tamamlamak için birçok uygulama kullanırsınız. Zapier, sıkıcı görevleri otomatikleştirmeye yardımcı olmak için bu uygulamaları birbirine kolayca bağlamanıza olanak tanır.\n\n * Zap nedir? *\nA Zap, bir tetikleyici ve bir eylemden oluşan iki uygulama arasındaki bağlantıdır. Tetikleme olayı gerçekleştiğinde, Zapier otomatik olarak eylem olayını sizin için gerçekleştirecektir.!"
+    "zapier": "Zapier Entegrasyonumuzla, Kanalınıza, Grubunuza veya Süper Grubunuza kolayca Otomatik Yüklemeyi kurabilirsiniz\nZapier, Twitter, Facebook, Gmail, GitHub, ... dahil Tetikleyici olarak 750'den fazla Uygulamayı destekler.!\n\n*Zapier nedir? *\n_Zapier Otomasyondur_\nİşlerinizi tamamlamak için birçok uygulama kullanırsınız. Zapier, sıkıcı görevleri otomatikleştirmeye yardımcı olmak için bu uygulamaları birbirine kolayca bağlamanıza olanak tanır.\n\n*Zap nedir?*\nZap, bir tetikleyici ve bir eylemden oluşan iki uygulama arasındaki bağlantıdır. Tetikleme olayı gerçekleştiğinde, Zapier otomatik olarak eylem olayını sizin için gerçekleştirecektir.!"
 }
